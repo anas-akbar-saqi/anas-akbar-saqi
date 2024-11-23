@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WordPress**
 
-- 👨‍💻 My Poertfolio [https://anas-akbar-saqi.github.io/Portfolio/](https://anas-akbar-saqi-portfolio.vercel.app/index.html#home)
+- 👨‍💻 My Poertfolio [https://anasakbarsaqi.netlify.app/](https://anasakbarsaqi.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, JQuery, PHP, MYSQL Bootsrap**
 
