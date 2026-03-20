@@ -1,37 +1,239 @@
-![logo](https://github.com/anas-akbar-saqi/anas-akbar-saqi/blob/5032f70e7ecba9576bff1bc616a7cdb384932b9d/Anas.png)
-<h1 align="center">Hi 👋, I'm Anas Akbar Saqi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.<br>I'm an full-stack Web developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "ABS Prog" to my subscribers. </h3>
-    <img align="right" alt="coding" width="500" src="https://github.com/anas-akbar-saqi/anas-akbar-saqi/blob/main/anas.gif?raw=true">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-akbar-saqi&label=Profile%20views&color=0e75b6&style=flat" alt="anas-akbar-saqi" /> </p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-- 🔭 I’m currently working on [YouTube](https://www.youtube.com/@Dev_Dose_With_Professor)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=200&section=header&text=Anas%20Akbar%20Saqi&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Content%20Creator%20%7C%20Digital%20Craftsman&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently learning **WordPress**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     DYNAMIC TYPING                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-- 👨‍💻 My Poertfolio [https://anas.azfa.store/](https://anas.azfa.store/)
+<br/>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, JQuery, PHP, MYSQL Bootsrap**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;Frontend+Architect+%26+UI+Enthusiast+%E2%9C%A8;Full-Stack+Dev+%7C+PHP+%7C+React+%7C+Node.js+%F0%9F%94%A5;YouTube+Creator+%40+ABS+Prog+%F0%9F%8E%AC;Turning+Ideas+Into+Digital+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-- 📫 How to reach me **anasakbarsaqi8@gmail.com**
+<br/>
 
-- 📄 My Resume [https://drive.google.com/file/d/1GVcGu4p3rwSIARVOo1eswcitfWi017-1/view?usp=drive_link](https://drive.google.com/file/d/1GVcGu4p3rwSIARVOo1eswcitfWi017-1/view?usp=drive_link)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PROFILE VIEWS + FOLLOWERS                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/anas-akbar-saqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anas-akbar-saqi" height="30" width="40" /></a>
-<a href="https://twitter.com/anasakbarsaqi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasakbarsaqi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anasakbarsaqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasakbarsaqi" height="30" width="40" /></a>
-<a href="https://fb.com/anasakbarsaqi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anasakbarsaqi21" height="30" width="40" /></a>
-<a href="https://instagram.com/@anas_akbar_saqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anas_akbar_saqi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dev_dose_with_professor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev_dose_with_professor" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/anas-akbar-saqi">
+  <img src="https://komarev.com/ghpvc/?username=anas-akbar-saqi&style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/anas-akbar-saqi?tab=followers">
+  <img src="https://img.shields.io/github/followers/anas-akbar-saqi?style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=FOLLOWERS" alt="Followers"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00d4ff?style=for-the-badge&labelColor=0d1b2a" alt="Focus"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-akbar-saqi&show_icons=true&locale=en&layout=compact" alt="anas-akbar-saqi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-akbar-saqi&show_icons=true&locale=en" alt="anas-akbar-saqi" /></p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-akbar-saqi&" alt="anas-akbar-saqi" /></p>
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## 🧠 About Me
+
+> *"Code is poetry when written with intention."*
+
+I'm **Anas Akbar Saqi**, a passionate **Full-Stack Web Developer** and **Content Creator** based in 🇵🇰 Pakistan. I don't just write code — I craft digital experiences that solve real problems and tell compelling stories.
+
+Everything I build starts from scratch — from **ideation and architecture** to **pixel-perfect execution**. The same philosophy applies to my content: every video on my [YouTube channel](https://www.youtube.com/@Dev_Dose_With_Professor) is crafted with purpose, from concept to final cut.
+
+<br/>
+
+```yaml
+Name     : Anas Akbar Saqi
+Role     : Full-Stack Developer & Content Creator
+Location : Pakistan 🇵🇰
+Channel  : ABS Prog (YouTube)
+Focus    : Web Dev, UI/UX, PHP & JS Ecosystems
+Learning : WordPress & Advanced React
+Status   : Open to Opportunities ✅
+```
+
+</td>
+<td valign="top" width="45%">
+
+<br/><br/>
+
+<img src="https://github.com/anas-akbar-saqi/anas-akbar-saqi/blob/main/anas.gif?raw=true" width="100%" alt="Coding Animation" style="border-radius: 12px"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## ⚙️ Tech Stack & Toolbox
+
+<div align="center">
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🛠️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🎨 Design & Creative Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
+
+### 🔧 DevOps & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-akbar-saqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&border_radius=12" alt="GitHub Stats" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-akbar-saqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=a0aec0&border_radius=12" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-akbar-saqi&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=a0aec0&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&border_radius=12" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-akbar-saqi&bg_color=0d1b2a&color=00d4ff&line=00d4ff&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&border_radius=12" alt="Activity Graph" width="95%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TROPHIES SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anas-akbar-saqi&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 WHAT I'M UP TO                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🚀 Currently
+
+<div align="center">
+
+| 🔭 Working On | 🌱 Learning | 💬 Expertise | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| YouTube Content & Client Projects | WordPress & Advanced React | HTML, CSS, JS, PHP, MySQL | Build 10K+ YouTube Community |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+*I'm always open to exciting projects, collaborations, and meaningful conversations. Let's build something great together.*
+
+<br/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-ABS%20Prog-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_Dose_With_Professor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anas.azfa.store-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://anas.azfa.store/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anasakbarsaqi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasakbarsaqi)
+[![Twitter](https://img.shields.io/badge/Twitter-@anasakbarsaqi1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anasakbarsaqi1)
+
+<br/>
+
+[![Facebook](https://img.shields.io/badge/Facebook-anasakbarsaqi21-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/anasakbarsaqi21)
+[![Instagram](https://img.shields.io/badge/Instagram-@anas__akbar__saqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@anas_akbar_saqi)
+[![CodePen](https://img.shields.io/badge/CodePen-anas--akbar--saqi-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anas-akbar-saqi)
+[![Email](https://img.shields.io/badge/Email-anasakbarsaqi8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasakbarsaqi8@gmail.com)
+
+<br/>
+
+[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-View%20on%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GVcGu4p3rwSIARVOo1eswcitfWi017-1/view?usp=drive_link)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   SUPPORT / FOOTER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ☕ Support My Work
+
+*If my projects or YouTube content have helped you in any way, consider showing some love!*
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anasakbarsaqi)
+
+<br/>
+
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
