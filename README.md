@@ -1,239 +1,328 @@
+<!-- ██████████████████████████████████████████████████████████ -->
+<!--          ANAS AKBAR SAQI — WORLD-CLASS GITHUB PROFILE      -->
+<!--                  Designed to STOP the scroll.              -->
+<!-- ██████████████████████████████████████████████████████████ -->
+
+<!-- ░░░░░░░░░░░░░░░░░░  ANIMATED MATRIX HEADER  ░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=200&section=header&text=Anas%20Akbar%20Saqi&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Content%20Creator%20%7C%20Digital%20Craftsman&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     DYNAMIC TYPING                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;Frontend+Architect+%26+UI+Enthusiast+%E2%9C%A8;Full-Stack+Dev+%7C+PHP+%7C+React+%7C+Node.js+%F0%9F%94%A5;YouTube+Creator+%40+ABS+Prog+%F0%9F%8E%AC;Turning+Ideas+Into+Digital+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS + FOLLOWERS                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/anas-akbar-saqi">
-  <img src="https://komarev.com/ghpvc/?username=anas-akbar-saqi&style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-&nbsp;
-<a href="https://github.com/anas-akbar-saqi?tab=followers">
-  <img src="https://img.shields.io/github/followers/anas-akbar-saqi?style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=FOLLOWERS" alt="Followers"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00d4ff?style=for-the-badge&labelColor=0d1b2a" alt="Focus"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0118,60:120025,100:000000&height=230&section=header&text=ANAS%20AKBAR%20SAQI&fontSize=55&fontColor=00FFD1&fontAlignY=45&desc=⟨%20Full-Stack%20Developer%20·%20Digital%20Architect%20·%20Content%20Creator%20⟩&descAlignY=68&descSize=15&descColor=B388FF&animation=blinking&stroke=00FFD1&strokeWidth=2" width="100%"/>
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░░░  LIVE TERMINAL ANIMATION  ░░░░░░░░░░░░░░░ -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&repeat=true&width=750&height=50&lines=%E2%9A%A1+Architecting+Digital+Experiences+from+0+to+%E2%88%9E;%F0%9F%94%A5+React+%7C+PHP+%7C+Node.js+%7C+MySQL+%7C+Full-Stack;%F0%9F%8E%AC+YouTube+Creator+%40+ABS+Prog+%E2%80%94+Learning+Made+Cinematic;%F0%9F%9A%80+Turning+Caffeine+%2B+Code+into+Real+Products;%F0%9F%8C%9F+Building+the+Web%2C+One+Commit+at+a+Time;%E2%9C%A8+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%86%92+Global+Digital+Stage" alt="typing"/>
 
-## 🧠 About Me
-
-> *"Code is poetry when written with intention."*
-
-I'm **Anas Akbar Saqi**, a passionate **Full-Stack Web Developer** and **Content Creator** based in 🇵🇰 Pakistan. I don't just write code — I craft digital experiences that solve real problems and tell compelling stories.
-
-Everything I build starts from scratch — from **ideation and architecture** to **pixel-perfect execution**. The same philosophy applies to my content: every video on my [YouTube channel](https://www.youtube.com/@Dev_Dose_With_Professor) is crafted with purpose, from concept to final cut.
+</div>
 
 <br/>
 
-```yaml
-Name     : Anas Akbar Saqi
-Role     : Full-Stack Developer & Content Creator
-Location : Pakistan 🇵🇰
-Channel  : ABS Prog (YouTube)
-Focus    : Web Dev, UI/UX, PHP & JS Ecosystems
-Learning : WordPress & Advanced React
-Status   : Open to Opportunities ✅
+<!-- ░░░░░░░░░░░░░░░░  HOLOGRAPHIC STATUS BADGES  ░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=anas-akbar-saqi&style=for-the-badge&color=00FFD1&labelColor=0a0118&label=PROFILE+VIEWS)](https://github.com/anas-akbar-saqi)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/anas-akbar-saqi?style=for-the-badge&color=B388FF&labelColor=0a0118&label=FOLLOWERS)](https://github.com/anas-akbar-saqi?tab=followers)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/anas-akbar-saqi?style=for-the-badge&color=FFD700&labelColor=0a0118&label=TOTAL+STARS)](https://github.com/anas-akbar-saqi)&nbsp;
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00FF88?style=for-the-badge&labelColor=0a0118)
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  ABOUT ME — TERMINAL CARD  ░░░░░░░░░░░░░░░░ -->
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+```typescript
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//  WHO AM I?  — System.identity.reveal();
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const developer = {
+  name:      "Anas Akbar Saqi",
+  alias:     "The Professor 🎓",
+  origin:    "Pakistan 🇵🇰",
+  role:      "Full-Stack Web Developer",
+  channel:   "ABS Prog on YouTube 🎬",
+
+  skills: {
+    frontend:  ["HTML5","CSS3","JS","React","Angular","Vue"],
+    backend:   ["PHP","Node.js","MySQL","Python"],
+    design:    ["Figma","Photoshop","XD","Illustrator"],
+    tools:     ["Git","Linux","Bootstrap","SASS"],
+  },
+
+  currentlyLearning: "WordPress + Advanced React ⚛️",
+  openTo:      ["Freelance 💼","Collabs 🤝","Remote Jobs 🌍"],
+  superpower:  "Turning ☕ Coffee into 💻 Products",
+
+  quote: `"Don't watch the clock; 
+   do what it does. Keep going."`,
+};
+
+console.log("Ready to build the future? 🚀");
 ```
 
 </td>
-<td valign="top" width="45%">
+<td width="48%" valign="middle" align="center">
+
+<br/>
+
+<img src="https://github.com/anas-akbar-saqi/anas-akbar-saqi/blob/main/anas.gif?raw=true" width="100%" alt="Anas Coding"/>
 
 <br/><br/>
 
-<img src="https://github.com/anas-akbar-saqi/anas-akbar-saqi/blob/main/anas.gif?raw=true" width="100%" alt="Coding Animation" style="border-radius: 12px"/>
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-anas.azfa.store-00FFD1?style=for-the-badge&labelColor=0a0118)](https://anas.azfa.store/)
+&nbsp;
+[![Resume](https://img.shields.io/badge/📄_RESUME-Download-B388FF?style=for-the-badge&labelColor=0a0118)](https://drive.google.com/file/d/1GVcGu4p3rwSIARVOo1eswcitfWi017-1/view?usp=drive_link)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚙️ Tech Stack & Toolbox
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░  GITHUB STATS — PREMIUM GRID  ░░░░░░░░░░░░ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+  &nbsp;GitHub Battle Stats
+  &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+</h2>
 
 <div align="center">
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🛠️ Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🎨 Design & Creative Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
-
-### 🔧 DevOps & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<a href="https://github.com/anas-akbar-saqi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas-akbar-saqi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=00FFD1&icon_color=B388FF&text_color=CCCCCC&border_radius=16&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/anas-akbar-saqi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-akbar-saqi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=00FFD1&text_color=CCCCCC&border_radius=16&langs_count=8"/>
+</a>
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-akbar-saqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&border_radius=12" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-akbar-saqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=a0aec0&border_radius=12" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-akbar-saqi&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=a0aec0&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&border_radius=12" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-akbar-saqi&bg_color=0d1b2a&color=00d4ff&line=00d4ff&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&border_radius=12" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-akbar-saqi&theme=midnight-purple&hide_border=true&background=0D0221&stroke=B388FF&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=00FFD1&sideLabels=B388FF&dates=888888&border_radius=16" alt="GitHub Streak"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH -->
+<div align="center">
 
-## 🏆 GitHub Trophies
+[![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anas-akbar-saqi&bg_color=0D0221&color=00FFD1&line=B388FF&point=FFD700&area=true&area_color=B388FF&hide_border=true&border_radius=16&custom_title=⚡%20Anas%27s%20Contribution%20Constellation)](https://github.com/anas-akbar-saqi)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">🏆 &nbsp;Hall of Trophies&nbsp; 🏆</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anas-akbar-saqi&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=anas-akbar-saqi&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/anas-akbar-saqi)
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 WHAT I'M UP TO                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Currently
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  TECH STACK — 3-TIER MATRIX  ░░░░░░░░░░░░░░ -->
+
+<h2 align="center">⚙️ &nbsp;Arsenal — Technologies I Command</h2>
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 💬 Expertise | 🎯 Goal |
-|:---:|:---:|:---:|:---:|
-| YouTube Content & Client Projects | WordPress & Advanced React | HTML, CSS, JS, PHP, MySQL | Build 10K+ YouTube Community |
+<!-- ROW 1: FRONTEND -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,nextjs&theme=dark&perline=8" alt="Frontend Skills"/>
+
+<br/><br/>
+
+<!-- ROW 2: BACKEND + DB -->
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,cpp,mysql,mongodb&theme=dark&perline=6" alt="Backend Skills"/>
+
+<br/><br/>
+
+<!-- ROW 3: DESIGN + TOOLS -->
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,bootstrap,sass,git,linux,vscode,wordpress&theme=dark&perline=10" alt="Design & Tools"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SKILL LEVEL BARS using progress indicators -->
+<div align="center">
 
-## 🌐 Let's Connect & Collaborate
+| 💡 Skill | 🔥 Mastery | ⚡ Level |
+|:---|:---:|:---:|
+| HTML5 + CSS3 + SASS | `██████████` 100% | 🥇 Master |
+| JavaScript + jQuery | `█████████░` 90% | 🥇 Expert |
+| PHP + MySQL | `████████░░` 80% | 🥈 Advanced |
+| React.js | `███████░░░` 75% | 🥈 Advanced |
+| Bootstrap + Responsive Design | `█████████░` 90% | 🥇 Expert |
+| Figma + Adobe Suite | `████████░░` 80% | 🥈 Advanced |
+| Git + Version Control | `████████░░` 80% | 🥈 Advanced |
+| Node.js + Angular | `███████░░░` 70% | 🥉 Proficient |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">🚀 &nbsp;Featured Work</h2>
 
 <div align="center">
 
-*I'm always open to exciting projects, collaborations, and meaningful conversations. Let's build something great together.*
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-ABS%20Prog-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_Dose_With_Professor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anas.azfa.store-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://anas.azfa.store/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anasakbarsaqi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasakbarsaqi)
-[![Twitter](https://img.shields.io/badge/Twitter-@anasakbarsaqi1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anasakbarsaqi1)
-
-<br/>
-
-[![Facebook](https://img.shields.io/badge/Facebook-anasakbarsaqi21-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/anasakbarsaqi21)
-[![Instagram](https://img.shields.io/badge/Instagram-@anas__akbar__saqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@anas_akbar_saqi)
-[![CodePen](https://img.shields.io/badge/CodePen-anas--akbar--saqi-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anas-akbar-saqi)
-[![Email](https://img.shields.io/badge/Email-anasakbarsaqi8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasakbarsaqi8@gmail.com)
-
-<br/>
-
-[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-View%20on%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GVcGu4p3rwSIARVOo1eswcitfWi017-1/view?usp=drive_link)
+<a href="https://anas.azfa.store/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anas-akbar-saqi&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=00FFD1&icon_color=B388FF&text_color=CCCCCC&border_radius=16" />
+</a>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   SUPPORT / FOOTER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  YOUTUBE CHANNEL SECTION  ░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">🎬 &nbsp;ABS Prog — YouTube Channel</h2>
 
 <div align="center">
 
-### ☕ Support My Work
+<a href="https://www.youtube.com/@Dev_Dose_With_Professor">
+  <img src="https://img.shields.io/badge/⚡_SUBSCRIBE_NOW-ABS_PROG-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0118"/>
+</a>
 
-*If my projects or YouTube content have helped you in any way, consider showing some love!*
+<br/><br/>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anasakbarsaqi)
-
-<br/>
-
----
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+> *Every video is crafted like a film — from concept to cinematic delivery.*
+> *I teach web development the way it was meant to be learned: visually, practically, and memorably.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+| 📹 Content Type | 🎯 Topics Covered |
+|:---:|:---:|
+| Full Project Builds | HTML, CSS, JS, PHP, MySQL |
+| Design Tutorials | Figma, UI/UX, Responsive Design |
+| Coding Challenges | Real-world Problems Solved Live |
+| Tech Tips & Tricks | Shortcuts, Best Practices, Tools |
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">🐍 &nbsp;Watch My Contributions Get Devoured</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anas-akbar-saqi/anas-akbar-saqi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anas-akbar-saqi/anas-akbar-saqi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anas-akbar-saqi/anas-akbar-saqi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  CONNECT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">🌐 &nbsp;Let's Build Something Legendary</h2>
+
+<div align="center">
+
+*I don't just connect — I collaborate, create, and conquer.*
+*Whether it's a startup idea, a freelance gig, or a collab on YouTube — my DMs are always open.*
+
+<br/>
+
+<a href="https://www.youtube.com/@Dev_Dose_With_Professor"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=0a0118"/></a>&nbsp;
+<a href="https://linkedin.com/in/anasakbarsaqi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0118"/></a>&nbsp;
+<a href="https://twitter.com/anasakbarsaqi1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=0a0118"/></a>&nbsp;
+<a href="https://instagram.com/@anas_akbar_saqi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0a0118"/></a>
+
+<br/><br/>
+
+<a href="https://fb.com/anasakbarsaqi21"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0a0118"/></a>&nbsp;
+<a href="https://codepen.io/anas-akbar-saqi"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0a0118"/></a>&nbsp;
+<a href="mailto:anasakbarsaqi8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0118"/></a>&nbsp;
+<a href="https://anas.azfa.store/"><img src="https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=firefox&logoColor=black&labelColor=0a0118"/></a>
+
+<br/><br/>
+
+<a href="https://drive.google.com/file/d/1GVcGu4p3rwSIARVOo1eswcitfWi017-1/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/📄_DOWNLOAD_MY_RESUME-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0118"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  RANDOM DEV QUOTE  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=B388FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐+Star+some+repos+before+you+go+🚀;Built+with+%F0%9F%96%A4+passion+in+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+Made+for+the+World+🌍" alt="footer typing"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0118,70:120025,100:000000&height=150&section=footer&text=Keep+Building.+Never+Stop.&fontSize=22&fontColor=00FFD1&fontAlignY=68&animation=twinkling" width="100%"/>
