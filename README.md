@@ -145,7 +145,7 @@ console.log("Ready to build the future? 🚀");
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anas-akbar-saqi&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/anas-akbar-saqi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anas-akbar-saqi&theme=radical&no-frame=true&column=6&margin-w=10)](https://github.com/anas-akbar-saqi)
 
 </div>
 
